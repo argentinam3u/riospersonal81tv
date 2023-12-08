@@ -454,17 +454,11 @@ http://45.172.218.126:8000/play/a00f/index.m3u8
 http://45.166.92.22:58001/play/a00t/index.m3u8
 
 
-#EXTINF:-1 "group-title="LATINO TV" , Latino  Estreno universal
+#EXTINF:-1,Latino | Estreno universal
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1661
-
-
-#EXTINF:-1 "group-title="LATINO TV" , Latino  cine universal
+#EXTINF:-1,Latino | cine universal
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1662
-
-
-#EXTINF:-1 "group-title="LATINO TV" , Latino  Crimen universal
+#EXTINF:-1,Latino | Crimen universal
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1663
-
-
-#EXTINF:-1 "group-title="LATINO TV" , Latino  Realidad Universal
+#EXTINF:-1,Latino | Realidad Universal
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1664
