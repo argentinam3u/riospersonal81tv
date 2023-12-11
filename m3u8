@@ -13,7 +13,7 @@ http://45.172.218.126:8000/play/a03s/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvpublica.com.ar/static/img/branding/isologo.svg" group-title="NACIONALES", Television Publica Argentina
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0064
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0065
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png" group-title="DEPORTIVOS", TIGO SPORTS
