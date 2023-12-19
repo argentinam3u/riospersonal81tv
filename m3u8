@@ -3,7 +3,11 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES", ESPN PREMIUN
+http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/2121662
 
+#EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632360826/sites/tntsports/arte/logo_20210114.svg" group-title="DEPORTES", TNT SPORTS
+http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/155677
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="DEPORTIVO", ESPN  
 http://45.172.218.126:8000/play/a03s/index.m3u8
