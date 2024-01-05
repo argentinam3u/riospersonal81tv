@@ -3,6 +3,10 @@
 
 
 
+#EXTINF:-1,Latino | CNN en Espanol
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/105
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES", ESPN PREMIUN
 http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/2121662
 
@@ -273,8 +277,8 @@ http://45.191.234.189:15082/play/a02g/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS" ,AXNHD
 http://45.191.234.189:15082/play/a02j/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08s.png" group-title="PELÍCULAS" ,HBO Familia HD
-http://181.78.107.39:4000/play/a08s/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08s.png" group-title="PELÍCULAS" ,HBO HD
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
  
 #EXTINF:-1 group-title="PELÍCULAS" , TNT HD
 http://45.172.218.126:8000/play/a00w/index.m3u8
